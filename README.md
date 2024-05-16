@@ -12,7 +12,7 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 Certifique-se de ter o Node.js e o npm instalados em sua máquina.
 Instale o Angular CLI globalmente usando o comando npm install -g @angular/cli.
-Clone este repositório para a sua máquina local usando git clone 
+Clone este repositório para a sua máquina local usando git clone git@github.com:AlexSouto04/aula_ts_angular-.git
 Navegue até a pasta do projeto e instale as dependências com npm install.
 Inicie o servidor de desenvolvimento com ng serve.
 Navegue até http://localhost:4200/. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
